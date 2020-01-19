@@ -1,0 +1,167 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+   
+}
+
+.top-container{
+    background-color: #edf7fa;
+   position: relative;
+   padding-top: 285px;
+
+}
+
+
+
+h1{
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    margin-top: 0;
+    font-size: 70px;
+    position: absolute;
+    top: 108px;
+    left: 568px;
+ 
+}
+
+h2{  font-size: 40px;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h3{
+    color: #11999E;
+   
+}
+
+p{
+    font-weight: bold;
+  
+}
+#quality{
+    color: #66BFBF;
+    font-size: 1.2rem;
+    font-weight: normal;
+    position: absolute;
+    top: 200px;
+    left: 600px;
+}
+
+.top-cloud{
+
+    position: absolute;
+    top: 47px;
+    left: 900px;
+
+}
+
+.bottom-cloud{
+     position: absolute;
+     top: 240px;
+}
+
+.spa{
+    text-decoration: underline;
+
+}
+
+.profile-pic{
+
+     height: 200px;
+     width: 200px;
+     border-radius: 100px;
+     margin: 60px auto 0 auto;
+
+}
+.skill-frontend{
+    
+       float: left;
+       width: 20%;
+       margin-right: 30px;
+       margin-top: 10px;
+}
+
+.skill-backend{
+    
+    float: right;
+    width: 20%;
+    margin-right: 70px;
+    margin-top: 18px;
+}
+
+.skill-dance{
+    
+    float: left;
+    width: 20%;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+.skill-row{
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+hr{  
+    margin: 90px auto 80px auto; 
+    border-style: dotted none none none;
+    border-color:rgb(178, 196, 196);
+    width:5%;
+    border-width: 10px;
+}
+
+.bottom-container{
+   
+    background-color:#66BFBF;
+    padding: 50px;
+
+}
+
+.btn{
+      color: white;
+      background-color:rgb(20, 110, 110) ;
+      padding: 10px 20px 10px 20px;
+      border-radius: 50px;
+      text-decoration: none;
+     
+     
+
+}
+
+.contact-me{
+      
+    margin: auto auto 100px auto;
+
+
+}
+
+.btn-padding{
+
+          margin: 60px;
+
+}
+
+.footer-link{
+   
+    color: #11999E;
+    margin: 50px ;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+#copyright{
+     color: #EAF6F6;
+     font-size: 15px;
+    margin-top: 50px;
+
+}
+
+a:hover{
+    color: #EAF6F6;
+}
